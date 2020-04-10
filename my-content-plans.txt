@@ -1,6 +1,8 @@
 RENCANA KONTENKU
 
 - JavaScript
+  * ES6
+  * Framework JS
 - NodeJS
 - Interview
 - Blog
