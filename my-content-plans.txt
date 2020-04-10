@@ -4,6 +4,7 @@ RENCANA KONTENKU
   * ES6
   * Framework JS
    > Vue
+   > React
 - Struktur Data Dasar
 - Laravel
 - NodeJS
