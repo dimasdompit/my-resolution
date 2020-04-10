@@ -2,3 +2,5 @@ DOMS Resolution
 - Konsisten untuk belajar programming.
 - Membuat platform untuk pengelolaan musik.
 - Membuat forum diskusi.
+- Membuat album musik.
+- Kolaborasi dengan producer lokal.
