@@ -3,6 +3,7 @@ RENCANA KONTENKU
 - JavaScript
   * ES6
   * Framework JS
+- Struktur Data Dasar
 - NodeJS
 - Interview
 - Blog
