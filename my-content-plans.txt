@@ -3,7 +3,11 @@ RENCANA KONTENKU
 - JavaScript
   * ES6
   * Framework JS
+   > Vue
+   > React
 - Struktur Data Dasar
+- Laravel
 - NodeJS
 - Interview
 - Blog
+- Pyhton
